@@ -3,4 +3,4 @@ then u have to give path of haarcascade classifier.xml file from that environmen
 while running u have to keep your phone in front your's and other friends' face with clear bg..i.e no other people and the server will automatically take the pictures...make sure the network connections of your phone and PC are same ...otherwise it'll give error
 then name the folder names according to ur friendds's names...then run consolidated file..it will crrate 2 files i.e images and labels..
 then u have to run all the codes of face_detection_project i.e importing all the libraries and and standardization..a nd detection and saving them to drive
-if giving error in detection make sure ur accuracy is good enough whose code is in face_detection_project i.e to increase u may increase the size of epoch
+if giving error in detection make sure ur accuracy is good enough whose code is in face_detection_project i.e to incre
